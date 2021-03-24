@@ -1,1 +1,1 @@
-asnible-playbook test.yml
+ansible-playbook test.yml
